@@ -10,7 +10,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 ### Open source project
 
-- [https://github.com/nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume)
+- [https://github.com/nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume)（个人主页网站推荐模板）
 
 - [https://github.com/wonderfullandingpage/mylandingpage](https://github.com/wonderfullandingpage/mylandingpage)
 
